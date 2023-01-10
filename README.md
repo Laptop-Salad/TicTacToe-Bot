@@ -16,3 +16,5 @@ A discord bot written in Python that allows two users can play Tic-Tac-Toe
 7. In scopes select Bots and in Bot permissions select the following:
     - Read message history
     - Send messages
+8. Run the bot.
+9. Use the command $ttt <@user>.
