@@ -6,7 +6,7 @@ A discord bot written in Python that allows two users can play Tic-Tac-Toe
 - Download [Python](https://www.python.org/downloads/)
 - Download and install [discord.py](https://pypi.org/project/discord.py/)
 
-### Installing the bot
+### Using the bot
 1. Clone this repository.
 2. Go to [discord developer portal](https://discord.com/developers/applications) and create a new application.
 3. In the application select Bot -> Add a bot.
